@@ -1,0 +1,6 @@
+{
+  "name": "Local Tourism Planner & Itinerary Generator",
+  "description": "Smart tourism planning application with destination explorer, budget calculator, automated day-wise itinerary generator, expense tracker, and complete Java JSP/Servlet MySQL backend architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
